@@ -53,9 +53,11 @@ with output succesful on gtk wave
 ![5](https://github.com/isaiahrivera21/ECE251_COMPARC_FINAL/assets/99307808/2f14b0d5-051d-4736-9cc3-3391941476c7)
 
 The second being a nested procedure: 
+
 ![test2](https://github.com/isaiahrivera21/ECE251_COMPARC_FINAL/assets/99307808/b6f0e17e-588f-4b8f-b528-8bc62dd537b3)
 
 here is the output: 
+![0069db5e-eeca-4b78-99b8-4e945046e2a7](https://github.com/cooper-union-ece-251-marano/ece-251-spring-2023-final-project-bit-busters/assets/99307808/c6900d77-53d1-4edb-acc5-05441b7b7ce1)
 
 ![12](https://github.com/isaiahrivera21/ECE251_COMPARC_FINAL/assets/99307808/e920b7e1-e80d-4abd-b303-7a37ddb087f4)
 
@@ -81,3 +83,4 @@ Assembler – generate the code for us instead of hand compiling
 
 
 ![12](https://github.com/isaiahrivera21/ECE251_COMPARC_FINAL/assets/99307808/e920b7e1-e80d-4abd-b303-7a37ddb087f4)
+
